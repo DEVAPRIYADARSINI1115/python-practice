@@ -1,2 +1,6 @@
 name=input("Enter your name: ")
+department=input("Enter your department: ")
+registration_number=input("Enter your registration number: ")
 print("welcome back",name)
+print("You are in the",department,"department")
+print("Your registration number is",registration_number)
