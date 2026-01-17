@@ -1,3 +1,4 @@
+#TO TAKE INPUT AND PRINT OUTPUT
 name=input("Enter your name: ")
 department=input("Enter your department: ")
 registration_number=input("Enter your registration number: ")
